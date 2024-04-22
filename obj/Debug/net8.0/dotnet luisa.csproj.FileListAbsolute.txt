@@ -1,0 +1,30 @@
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\appsettings.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\dotnet luisa.staticwebassets.runtime.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\dotnet luisa.exe
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\dotnet luisa.deps.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\dotnet luisa.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\dotnet luisa.dll
+C:\Users\Lisber Perez\Desktop\dotnet luisa\bin\Debug\net8.0\dotnet luisa.pdb
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.RazorAssemblyInfo.cache
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.RazorAssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets\msbuild.dotnet luisa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets\msbuild.build.dotnet luisa.props
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.dotnet luisa.props
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.dotnet luisa.props
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\scopedcss\bundle\dotnet luisa.styles.css
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\scopedcss\projectbundle\dotnet luisa.bundle.scp.css
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.dll
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\refint\dotnet luisa.dll
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.pdb
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\dotnet luisa.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\dotnet luisa\obj\Debug\net8.0\ref\dotnet luisa.dll
